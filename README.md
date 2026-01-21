@@ -1,4 +1,4 @@
-# Key Attestation
+# RATS Privacy Framework
 
 This is the working area for the individual Internet-Draft, "Key Attestation".
 
