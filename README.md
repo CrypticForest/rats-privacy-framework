@@ -1,13 +1,21 @@
-# Internet-Draft Template Repository
+# Key Attestation
 
-Use this repository as a template if you want to start working on
-[IETF](https://www.ietf.org/) documents. [Click here to create a new repository using the
-template](https://github.com/martinthomson/internet-draft-template/generate).
-Make sure to check "Include all branches", or you will need to enable GitHub Pages manually.
+This is the working area for the individual Internet-Draft, "Key Attestation".
 
-[Read the
-instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
-for more information.
+* [Editor's Copy](https://crypticforest.github.io/rats-privacy-framework/#go.draft-ietf-rats-pkix-key-attestation.html)
+<!-- * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ounsworth-rats-key-attestation)
+* [Compare Editor's Copy to Individual Draft](https://ietf-rats-wg.github.io/key-attestation/#go.draft-ietf-rats-pkix-key-attestation.diff) -->
 
-Once you have created your own repository, start work by
-[renaming the `draft-todo-yourname-protocol.md` file](../../edit/main/draft-todo-yourname-protocol.md).
+
+## Command Line Usage
+
+Formatted text and HTML versions of the draft can be built using `make`.
+
+```sh
+$ make
+```
+
+Command line usage requires that you have the necessary software installed.  See
+[the instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/SETUP.md).
+
