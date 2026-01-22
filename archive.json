@@ -1,0 +1,71 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-01-22T01:47:13.893884+00:00",
+  "repo": "CrypticForest/rats-privacy-framework",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOQ91nJc7knf1c",
+      "title": "Intro email",
+      "url": "https://github.com/CrypticForest/rats-privacy-framework/issues/1",
+      "state": "OPEN",
+      "author": "ounsworth",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Hi RATS!\n\nI'm going to do my usual thing of lobbing in a draft that I hope will be controversial and stir up discussion. In this case, I am challenging what I perceive as a deeply-held belief that remote attestation is fundamentally about measured boot, and that this does not carry any end-user privacy or human rights concerns. This work is inspired partly from my experiences writing draft-ietf-rats-pkix-key-attestation and draft-ietf-acme-rats, and party from me being uncomfortable that the RATS WG has basically ignored the 2023 IAB Statement on the Risks of Attestation of Software and Hardware on the Open Internet, and just carried on with business as usual.\n\nAnyway, I present the RATS Privacy Framework draft, which is actually a fairly short draft. Let's do the usual thing with it.",
+      "createdAt": "2026-01-20T21:37:07Z",
+      "updatedAt": "2026-01-20T21:55:02Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": []
+}
