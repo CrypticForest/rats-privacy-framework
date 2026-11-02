@@ -10,8 +10,8 @@ number:
 date:
 consensus: true
 v: 3
-area: SEC
-workgroup: RATS
+area: "Security"
+workgroup: "Remote ATtestation ProcedureS"
 keyword:
  - remote attestation
  - privacy
